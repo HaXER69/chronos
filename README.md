@@ -1,6 +1,8 @@
 # chronos
+##   Chronos is an open source web proxy that uses JavaScript nodes and servers to bypass blocked networks.
+
 ## v1.0.0
-  Chronos is an open source web proxy that uses JavaScript nodes and servers to bypass blocked networks.
+Initial release
 
 ## Features
   Fast and reliable. Chronos uses [Ultraviolet network](https://github.com/titaniumnetwork-dev/Ultraviolet) v2 (up to latest version), and its own client.
